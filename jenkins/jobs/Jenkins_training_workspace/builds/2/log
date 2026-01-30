@@ -1,0 +1,8 @@
+Started by user unknown or anonymous
+Running as SYSTEM
+Building in workspace /home/coder/project/workspace/jenkins/workspace/Jenkins_training_workspace
+[Jenkins_training_workspace] $ /bin/sh -xe /tmp/jenkins4534442817392733577.sh
++ cd python_pilot
+/tmp/jenkins4534442817392733577.sh: line 2: cd: python_pilot: No such file or directory
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
